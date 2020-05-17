@@ -8,8 +8,8 @@
   },
   "keywords": [],
   "author": "Lucas Huguet",
-  "repository": {
+  "repository": [
     "git://github.com/lucashuguet/netcat.git"
-  },
+  ],
   "license": "ISC"
 }
